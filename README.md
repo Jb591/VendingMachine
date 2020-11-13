@@ -31,3 +31,9 @@ Once in that file, you can use the following commands :
 * make will compile the code
 * make run will run the code
 * make clean cleans the folder of all unnecessary files
+
+### Installation
+
+Clone this repo for easy access
+
+`git clone https://github.com/Jb591/VendingMachine.git`
